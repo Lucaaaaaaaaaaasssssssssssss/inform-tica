@@ -7,11 +7,18 @@ font-size: 50px;
 font-style: oblique;
 font-variant: small-caps;
 text-align: center;
-color: blueviolet;
+color: rgb(4, 50, 53);
 margin: 100px;
-
 border: ;
 }
 
+nav{
+    height: 100vh;
+    color: rgb(0, 0, 0);
+background-color: rgb(40, 223, 64);
 
-    
+}
+div{
+height: 10vh;
+background-color: rgb(5, 255, 255);
+}    
