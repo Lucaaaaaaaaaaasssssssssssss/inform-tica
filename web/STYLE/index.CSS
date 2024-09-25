@@ -1,5 +1,5 @@
 header{
-background-color: rgb(255, 185, 98);
+background-color: rgb(27, 2, 255);
 padding: 10px;
 padding-left: 100px;
 font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -7,7 +7,7 @@ font-size: 50px;
 font-style: oblique;
 font-variant: small-caps;
 text-align: center;
-color: rgb(4, 50, 53);
+color: rgb(0, 0, 0);
 margin: 100px;
 border: ;
 }
@@ -15,10 +15,19 @@ border: ;
 nav{
     height: 100vh;
     color: rgb(0, 0, 0);
-background-color: rgb(40, 223, 64);
+background-color: rgb(8, 250, 48);
+display: flex;
+flex-direction: column;
+justify-content: space-between;
 
 }
-div{
-height: 10vh;
-background-color: rgb(5, 255, 255);
+.tarjeta{
+height: 20vh;
+background-color: rgb(215, 253, 0);
+
+border: 2px solid black;
+padding: 15px;
+text-align: center;
+
+
 }    
