@@ -28,9 +28,9 @@ background-color: rgb(215, 253, 0);
 border: 2px solid black;
 padding: 15px;
 text-align: center;
-
-
+display: flexbox;
 }    
 img{
-    height: 18vh;
+
+height: 60%;
 }
